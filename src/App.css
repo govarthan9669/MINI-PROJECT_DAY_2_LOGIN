@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image:url("https://th.bing.com/th/id/R.412b5c054cd9180d9d187079e6ddc0ed?rik=eDlJOPcOhbI4hw&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fBackground-Wallpaper-Images-Pics.jpg&ehk=f4LwBj%2fcaTh2fpoQ3L%2bu4RyRYBQlVpm6CZ2QG5h8yTk%3d&risl=&pid=ImgRaw&r=0");
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -27,6 +27,8 @@
 .App-link {
   color: #61dafb;
 }
+
+
 
 @keyframes App-logo-spin {
   from {
